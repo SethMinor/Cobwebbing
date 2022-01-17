@@ -1,6 +1,6 @@
 # Cobwebbing
 
-Scripting tools for creating cobweb diagrams representing the forward-time evolution of discrete dynamical systems.
+Scripting tools for creating MATLAB cobweb diagrams representing the forward-time evolution of discrete dynamical systems.
 
 The 'Iterate' .txt file corresponds to a .m function file helpful for continuously iterating a discrete map.
 
